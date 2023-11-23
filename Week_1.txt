@@ -1,0 +1,438 @@
+9/10/2023
+1
+MS-291: Engineering Economics
+(3 Credit Hours)
+Engineering Economics ?
+•Money ?
+•Gross Domestic Product (GDP) ?
+•Inflation ?
+•Bank/Central Bank ?
+•Balance of Payments?
+•Appreciation/ Depreciation of currencies 
+•International Trade
+9/10/2023
+2
+What is Engineering 
+Economics ?
+Engineering Economy/Economics 
+involves 
+–Formulating
+–Estimating, and 
+–Evaluating 
+expected economic outcomes of 
+alternatives designed to accomplish a 
+defined purpose
+Defined 
+Purpose
+Different 
+alternatives 
+with expected 
+economic 
+outcomes
+-Formulate
+-Estimate
+-Evaluate
+Expected 
+outcomes of 
+each alternatives
+Select the best 
+alternative
+More on in it in 
+upcoming discussions9/10/2023
+3
+Syllabus & Study Plan 
+Week Contents Reading Materials
+Week 1
+to 
+Week 4Foundation of Engineering Economy, 
+various cost concepts Chapter 1: (B&T 2012)
+Factors: How time and Interest Affect 
+MoneyChapter 2: (B&T 2012)
+Combining Factors and  Spread Sheet 
+FunctionsChapter 3: (B&T 2012)
+Week Contents Reading Materials
+Week 5
+to 
+Week 8Nominal and Effective Interest RatesChapter 4: (B&T 2012)
+Present Worth Analysis, 
+Annual Worth AnalysisChapter 5 (B&T 2012)
+& 
+Chapter 6: (B&T 2012)
+Week 9 Mid-Term
+Week Contents Reading Materials
+Week 9
+to 
+Week 
+13Rate of Return Analysis: Single Alternative and 
+Multiple AlternativesChapter 7 
+Chapter 8: (B&T 2012)
+Benefit/Cost Analysis & Public Sector 
+EconomicsChapter 9: (B&T 2012)
+Environmental Impact Assessment Reading Material
+Independent Projects with Budget LimitationsChapter 12: (B&T 2012)
+Week Contents Reading Materials
+Week 
+14to 
+Week 
+15Project Financing and Noneconomic AttributesChapter 10: (B&T 2012)
+Breakeven and Payback Analysis Chapter 13: (B&T 2012)
+Effects of Inflation
+Depreciation MeasuresChapter 14: (B&T 2012)
+Chapter 16: (B&T 2012)
+Week 16 Final TermSyllabus & Study Plan 9/10/2023
+4
+Recommended Books
+Major Course BookReference book for Economics
+Or any other book with title 
+Economics and is for 
+undergraduate level
+Grading Policy
+Grading Policy
+Assignments:            15%
+Quizzes:                    15% (including announced+ SQ)
+Mid-term Exam:         30%
+Final Exam:               40%
+Attendance: 100 % (80 min.) to qualify to sit 
+in the final examination
+Please note down that final term will consist of complete 
+course covered rather than course covered after mid -term9/10/2023
+5
+Consulting Hours
+•I am 24/7 sort of available person 
+•Before visiting me, make sure I am in office
+•My email is:  sabir.m@giki.edu.pk
+Lets Start the Course…9/10/2023
+6
+MS291: Engineering Economics
+Week 1Chapter  1
+Foundations Of 
+Engineering Economy
+Course Instructor : Dr. Muhammad Sabir
+Contents of the Chapter
+What is Economics?
+Why Economics for Engineers ?
+What is Engineering Economy/Economics ?
+How to Performing Engineering Economy Study ?
+Some Basic Concepts
+–Various cost concepts
+–Time value of money (TVM)
+–Interest rate and Rate of Returns
+–Cash Flow
+–Economic Equivalence 
+–Simple and compound interest rates
+–Source of Firms Capital
+–Minimum Attractive Rate of Return9/10/2023
+7
+Setting the Scene
+Lets start with a simple question ? What is 
+Economics ? Anyone ?
+There are variety of definitions of Economics but let 
+me place the most relevant one for this course
+A social science that studies how individuals, firms, 
+governments and nations make choices on 
+allocating scarce resources to satisfy their 
+unlimited wants
+Why Engineer Need to know about 
+Economics ?
+Individuals, Engineers, Managers all made choice 
+among various alternatives in their every day life 
+..Any Example ?
+Mostly these choice is associate with money (more 
+specifically capital or capital funds) but money (or 
+resources) is limited
+The selection of any choice depends on the 
+expected future return of each alternative
+Engineers plays a vital role in “such decision ” due 
+to their ability and experience to design , analyze 
+and synthesize9/10/2023
+8
+Engineers design and create
+Designing involves economic decisions … Why ?
+Engineers must be able to incorporate economic 
+analysis into their creative efforts
+Often engineers must select and implement from 
+multiple alternatives
+Understanding and applying  “engineering economy 
+tools (such as time value of money , economic 
+equivalence , and cost estimation) are vital for 
+engineers 
+A proper economic analysis for selection and 
+execution is a fundamental task of engineeringWhy Engineer Need to know about 
+Economics ? (II)
+What is Engineering 
+Economics ?
+Engineering Economy/Economics 
+involves 
+–Formulating
+–Estimating, and 
+–Evaluating 
+expected economic outcomes of 
+alternatives designed to accomplish a 
+defined purpose
+Defined 
+Purpose
+Different 
+alternatives 
+with expected 
+economic 
+outcomes
+-Formulate
+-Estimate
+-Evaluate
+Expected 
+outcomes of 
+each alternatives
+Select the best 
+alternative
+9/10/2023
+9
+Where Engineering Economy/Economics 
+learning is useful ?
+It is useful in many different engineering decisions 
+How should the engineering project be designed ?
+Has civil or mechanical engineer chosen the best thickness 
+for insulation ?
+Which engineering projects should have a higher priority ?
+Has the industrial engineer shown which factory 
+improvement projects should be funded with the available 
+resources
+Which engineering projects are worthwhile ?
+Has the mining or petroleum engineer shown that mineral or 
+oil deposits is worth developing ?
+Where Engineering Economy/Economics 
+learning is useful ?
+Cost -Benefit Analysis for Software Projects 
+•Check if the potential benefits (e.g., increased revenue or 
+efficiency) outweigh the costs (e.g., development and 
+maintenance expenses). 
+•In large IT organizations, budget allocation decisions are 
+made based on cost -benefit analyses
+Return on Investment (ROI) for Hardware and Software Upgrades 
+•Expected ROI on hardware or software upgrades in a 
+computing environment
+•Information if the upgrades are financially justified and when 
+they should be implemented .9/10/2023
+10
+Where Engineering Economy/Economics 
+learning is useful ?
+Total Cost of Ownership (TCO) Analysis: 
+•These analyses can help organizations understand the 
+complete cost of owning and operating computer 
+systems and software applications over their entire 
+lifecycle 
+Depreciation and Payback: 
+•Engineers need to account for the depreciation of 
+hardware and software assets over time
+•Engineering economics techniques help in calculating 
+depreciation schedules and payback for software 
+development costs
+Performing Engineering 
+Economy Study
+Keeping in mind, what is economics and 
+engineering economy?  
+For doing any engineering study we will 
+need to do many things such as : 
+Problem identifications , its objectives , its 
+various alternatives , information about 
+each alternatives , choosing the best 
+among all alternatives etc.9/10/2023
+11
+Previous Lecture
+•What is Economics ?
+•What is Engineering Economy ?
+•Engineering Economy Study ?
+•Basic Concepts
+Steps in an Engineering 
+Economy Study
+Problem description
+Objective statement
+Available data
+Alternatives for solution
+Cash flows and other 
+estimates
+Engineering  Economic 
+Analysis
+Measure of worth 
+criterion 
+(PW, B/C, IRR etc)
+Best alternative 
+Selection
+New Problem 
+description
+Step 1 in 
+Study
+Step 2
+Step 3
+Step 5
+Step 4
+Step 6
+Step 7
+One or more approaches 
+to meet objectives
+•Expected life
+•Revenues
+•Costs
+•Taxes
+•Project Financing
+Implementation and 
+Monitoring
+New engineering 
+economic study begins
+Step 1 in 
+Study
+Time Passes
+Tools u will be learning 
+in this course  are used 
+here
+9/10/2023
+12
+Basic Concepts
+Various cost concepts
+Time value of money (TVM)
+Interest rate and Rate of Returns
+Cash Flow
+Economic Equivalence 
+Simple and compound interest rates
+Source of Firms Capital
+Minimum Attractive Rate of Return
+Basic Concepts
+Various cost concepts
+Time value of money (TVM)
+Interest rate and Rate of Returns
+Cash Flow
+Economic Equivalence 
+Simple and compound interest rates
+Source of Firms Capital
+Minimum Attractive Rate of Return9/10/2023
+13
+Various Type of Costs
+•There are different type of costs and can be 
+classified by various ways
+•We will discuss costs classifications mostly 
+use by economists and Engineers
+•Economists: Fixed & Variable Costs , Average Costs 
+& Marginal Costs, Private & Social Costs
+•Opportunity Costs 
+•Some other important cost concept you may come 
+across:  Sunk Cost (often confused with Sinking funds) , 
+Operation & Maintenance Cost (O&M Costs ), Life-
+cycle Costs  etc.
+Fixed and Variable Costs 
+•Fixed Cost s:  those costs that do not vary with 
+the quantity of output produced .…any example  ?
+Examples : rent to paid for factory building, interest on 
+invested capital, maintenance, taxes etc.
+•Variable Cost s: are those costs that do vary with 
+the quantity of output produced
+Examples :consumption of fuel for power generation ….it 
+will vary as the production of a factory increases or 
+decrease9/10/2023
+14
+Total Costs
+•It maybe noted that Fixed Costs (FC) and 
+Variable Costs(VC) may consist of more than 
+one component and the sum of all respective 
+components will make up TFC and TVC 
+respectively
+•Total Costs (TC) is equal to sum of Total 
+Fixed Costs (TFC)  and Total variable costs 
+(TVC):
+TC= TFC + TVC
+Average Costs
+•Average Costs
+–Average costs can be determined by dividing the 
+firm’s total costs by the quantity of output it 
+produces
+–The average cost is the cost of each typical unit 
+of product
+•Average Costs can also be obtained by 
+adding  Average Fixed Costs (AFC) and 
+Average Variable Costs (AVC) … i.e:   
+•ATC = AFC + AVC9/10/2023
+15
+Average Costs: Formulas
+Fixed cost
+QuantityFCAFCQ
+Variable cost
+QuantityVCAVCQ
+Total cost
+QuantityTCATCQ
+Example: a firm produce 100 units of output at cost of 
+$1000, what is the  average cost of the firm?  
+= 1000/100 => $10
+Total cost
+QuantityTCATCQ
+Marginal Costs
+•Marginal Cost
+–Marginal cost (MC) measures the increase in 
+total cost that arises from an extra unit ( or next 
+unit) of production
+–Marginal cost helps answer the following 
+question:
+•How much does it cost to produce an additional unit 
+of output?
+(change in total cost)
+(change in quantity)TCMCQ9/10/2023
+16
+Private / Social Cost
+•Private costs (benefits ) of an action 
+–accruing to the actor only 
+•Social costs (benefits ) 
+–total costs of activity including those that accrue 
+to people other than the actor 
+•Example: driving a car
+–Private costs: fuel, maintenance 
+–Social costs include pollution, road wear
+Opportunity Costs
+I got a lottery of worth 
+Rs 100 millions
+1
+2
+3Ranking the Choices
+The Next best use is “buying 
+house” that’s I forgone for 
+paying my Credit card debts so 
+that’s my Opportunity cost
+Opportunity Cost:
+The Next Best Decision you could make9/10/2023
+17
+Opportunity Costs 
+(Cont.….)
+•What is cost of your “BS Engineering Degree” ?
+•Fee you pay to GIKI ? 
+•Food you pay for ?
+•Books you bought and things you paid for?
+•What about time you spend ?
+•Cannot you use this time by “making some money” 
+instead of studying?
+•Economist make decision based on “opportunity 
+cost” not based on monetary cost “only”
+•Opportunity cost is the cost of second best choice 
+you left for doing/getting your first choice
+Economic versus Accountants
+Copyright © 2004  South -WesternRevenue
+Total
+opportunity
+costsHow an Economist
+Views a Firm*How an Accountant
+Views a Firm*
+RevenueEconomic
+profit
+Non-Monetary
+costs
+Monetary
+costsMonetary
+costsAccounting
+profit
+Profit = Revenue –Total Cost9/10/2023
+18
+Prospective Costs
+•Prospective cost is a future expenditure or 
+past cost that can be recovered
+•In other words, it is any cost that can be 
+altered by your current or future decisions and 
+strategies
+•Economic theory says….to make a decision 
+about business focus on “perspective costs” 
+•Because these costs can be “controlled”
+Thank You
